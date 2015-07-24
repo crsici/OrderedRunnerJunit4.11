@@ -5,7 +5,7 @@
 
 	<repositories>
 		<repository>
-			<id>git-pttrung91@gmail.com</id>
+			<id>git-[your-git-id]</id>
 			<url>https://github.com/crsici/OrderedRunnerJunit4.11/raw/master/</url>
 		</repository>
 	</repositories>
